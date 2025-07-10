@@ -1,6 +1,7 @@
-# 1st-Repo
+1st-Repo
 My first repo
 this is readme file
 my first repository file
 i am adding content to it
 adding line 6 remotely
+adding line 7 remotely
