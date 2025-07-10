@@ -4,4 +4,3 @@ this is readme file
 my first repository file
 i am adding content to it
 adding line 6 remotely
-adding line 7 remotely
